@@ -22,8 +22,10 @@
     "webpack-dev-server": "^1.8.2"
   },
   "dependencies": {
+    "bootstrap": "^3.3.4",
     "immstruct": "^1.4.0",
     "immutable": "^3.7.2",
+    "lodash": "^3.9.3",
     "react": "^0.13.2"
   }
 }

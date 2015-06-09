@@ -1,0 +1,20 @@
+{
+    "env": {"browser": true, "node": true},
+    "ecmaFeatures": {
+        "blockBindings": true,
+        "forOf": true,
+        "jsx": true,
+        "modules": true,
+        "blockBindings": true,
+        "arrowFunctions": true,
+        "templateStrings": true,
+        "classes": true
+    },
+    "plugins" : ["react"],
+    "rules": {
+        "semi": 2,
+        "quotes": 0,
+        "comma-style", 0
+    },
+    "globals": {"google": true}
+}
